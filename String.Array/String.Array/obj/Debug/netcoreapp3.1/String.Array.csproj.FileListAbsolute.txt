@@ -1,0 +1,14 @@
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.csproj.AssemblyReference.cache
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.AssemblyInfoInputs.cache
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.AssemblyInfo.cs
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\bin\Debug\netcoreapp3.1\String.Array.exe
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\bin\Debug\netcoreapp3.1\String.Array.deps.json
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\bin\Debug\netcoreapp3.1\String.Array.runtimeconfig.json
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\bin\Debug\netcoreapp3.1\String.Array.runtimeconfig.dev.json
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\bin\Debug\netcoreapp3.1\String.Array.dll
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\bin\Debug\netcoreapp3.1\String.Array.pdb
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.dll
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.pdb
+C:\Users\ESQIN\Desktop\C#\String.Array\String.Array\String.Array\obj\Debug\netcoreapp3.1\String.Array.genruntimeconfig.cache
